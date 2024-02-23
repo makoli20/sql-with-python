@@ -9,4 +9,4 @@ After the database is created in postgreSQL, I analyse data to answer the follow
 2. Find employees with missing emails.
 3. Identify shops where the average salary is above the company-wide average salary
 4. Ranking Employees by Salary Within Each Shop using Window function
-5. # Order by the average salary per shop ascending
+5. Order by the average salary per shop ascending
