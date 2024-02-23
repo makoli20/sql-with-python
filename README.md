@@ -1,4 +1,4 @@
-# sql-with-python
+## sql-with-python
 
 I turn a csv file into a table in a postgreSQL database and query it using Python.
 I perform DML and DDL operations in SQL
