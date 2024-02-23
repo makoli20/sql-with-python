@@ -1,8 +1,8 @@
 ## sql-with-python
 
-I turn a csv file into a table in a postgreSQL database and query it using Python.
+I turn a csv file (coffee shop data) into a table in a postgreSQL database and query it using Python.
 I perform DML and DDL operations in SQL
-The csv file - coffeeshop.csv
+
 
 After the database is created in postgreSQL, I analyse data to answer the following using SQL -
 1. Find the minimum , maximum and average salaries overall.
